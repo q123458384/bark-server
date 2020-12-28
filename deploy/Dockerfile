@@ -20,7 +20,7 @@ RUN set -ex \
 
 FROM alpine:3.12
 
-LABEL maintainer="mritd <mritd@linux.com>"
+LABEL maintainer="mritd  <mritd@linux.com>"
 
 RUN set -ex \
     && apk upgrade \
